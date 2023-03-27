@@ -28,8 +28,8 @@ function Weiter() {
           <Row className=" z_index1">
             <div
               className="col-lg-3 col-sm-6 mt-4 "
-              data-aos="zoom-in-up"
-              data-aos-duration="3000"
+              // data-aos="zoom-in-up"
+              // data-aos-duration="3000"
             >
               <article className="d-flex flex-column align-items-center weiter_cards h-100 py-4 px-4 position-relative">
                 <svg
@@ -100,8 +100,8 @@ function Weiter() {
             </div>
             <div
               className="col-lg-3 col-sm-6 mt-4 "
-              data-aos="zoom-in-up"
-              data-aos-duration="3000"
+              // data-aos="zoom-in-up"
+              // data-aos-duration="3000"
             >
               <article className="d-flex flex-column align-items-center weiter_cards h-100 py-4 px-4 position-relative">
                 <svg
@@ -183,8 +183,8 @@ function Weiter() {
             </div>
             <div
               className="col-lg-3 col-sm-6 mt-4 "
-              data-aos="zoom-in-up"
-              data-aos-duration="3000"
+              // data-aos="zoom-in-up"
+              // data-aos-duration="3000"
             >
               <article className="d-flex flex-column align-items-center weiter_cards h-100 py-4 px-4 position-relative">
                 <svg
@@ -256,8 +256,8 @@ function Weiter() {
             </div>
             <div
               className="col-lg-3 col-sm-6 mt-4 "
-              data-aos="zoom-in-up"
-              data-aos-duration="3000"
+              // data-aos="zoom-in-up"
+              // data-aos-duration="3000"
             >
               <article className="d-flex flex-column align-items-center weiter_cards h-100 py-4 px-4 position-relative">
                 <svg

@@ -29,7 +29,7 @@ function Fragen() {
               data-aos="fade-right"
               data-aos-duration="3000"
             >
-              <article className="h-100 z_index1 d-flex align-items-center align-items-lg-start flex-column pb-3 mt-5">
+              <article className="h-100 z_index1 d-flex align-items-center align-items-lg-start flex-column pb-3 mt-md-5 mt-4">
                 <div className="d-flex justify-content-center justify-content-lg-start ">
                   <p className="ps-5 ms-lg-0 position-relative before_line ff_montserrat fw-normal text_primary fs_sm mb-0 d-inline-block me-lg-5 ">
                     Noch Fragen?

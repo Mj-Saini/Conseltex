@@ -23,11 +23,11 @@ const BackToTop = () => {
         style={{ zIndex: "99" }}
         className={
           backToTop
-            ? "btn d-block position-fixed end-0 bottom-0 mb-2 me-4"
-            : "btn d-none position-fixed end-0 bottom-0 mb-2 me-4"
+            ? "btn d-block position-fixed end-0 bottom-0 mb-4"
+            : "btn d-none position-fixed end-0 bottom-0 mb-2"
         }
       >
-        <img className=" w-25 top_img" src={topimg} alt="topimg" />
+        <img className=" top_img" src={topimg} alt="topimg" />
       </button>
     </div>
   );

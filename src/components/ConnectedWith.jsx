@@ -10,7 +10,7 @@ function ConnectedWith() {
   return (
     <>
       <section className="py-md-5 py-4  mt-xl-5 overflow-hidden">
-        <div className="d-flex justify-content-center pt-5">
+        <div className="d-flex justify-content-center pt-md-5 ">
           <p className="ms-sm-5 ps-sm-5 ps-5 ms-0 position-relative before_line ff_montserrat fw-normal text_primary fs_sm mb-0 d-inline-block me-5">
             Wir arbeiten mit den besten
           </p>

@@ -30,11 +30,9 @@ function Team() {
                   data-aos="zoom-in-up"
                   data-aos-duration="3000"
                 >
-                  {" "}
-                  <article className="bg_green_16 icon_scale   h-100 d-flex flex-column justify-content-between z_index1 posi tion-relative">
-                    <article className=" ">
+                  <article className="bg_green_16 icon_scale h-100 d-flex flex-column justify-content-between z_index1 ">
+                    <article className="">
                       <img className="w-100" src={key.img} alt="team" />
-
                       <p className="px-3 pt-4 mb-0 ff_montserrat fw-normal fs_sm text_primary opacity_08">
                         <em>{key.date}</em>
                       </p>
@@ -64,7 +62,7 @@ function Team() {
                       <img className="w-100" src={key.img} alt="team" />
 
                       <p className="px-3 pt-4 mb-0 ff_montserrat fw-normal fs_sm text_primary opacity_08">
-                        <i>{key.date}</i>
+                        <em>{key.date}</em>
                       </p>
                       <h3 className="ff_montserrat fw-semibold fs_md text_primary mb-0 pt-2 px-3">
                         {key.name}

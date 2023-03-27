@@ -147,7 +147,7 @@ https://www.instagram.com/"
           </div>
           <div className="d-lg-none d-flex ">
             <div className={` ${navShow ? "nav-fix" : "fix-navbar"}`}>
-              <ul class="ps-0 mb-0 d-flex flex-column py-5 align-items-center  list-unstyled gap-3 gap-md-5 pt-3 transition">
+              <ul class="ps-0 mb-0 d-flex flex-column py-5 align-items-center  list-unstyled gap-3  pt-3 transition">
                 <Link to="/">
                   <li>
                     <a

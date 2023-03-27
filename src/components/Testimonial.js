@@ -10,6 +10,7 @@ function Testimonial() {
   return (
     <>
       <div className="overflow-hidden">
+        <Header HIdeIcon={"d-none"} />
         <HeroTest />
         <Kendenstimmen />
         <Footer />

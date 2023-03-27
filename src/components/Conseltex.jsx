@@ -30,12 +30,12 @@ function Conseltex() {
                   alt="a brand-logo"
                 />
               </div>
-              <div className="location_on_c text-md-end d-flex flex-row-reverse flex-md-row align-items-center align-items-md-start flex-row-reverse flex-md-row">
-                <div
-                  className="box"
-                  data-aos="fade-right"
-                  data-aos-duration="3000"
-                >
+              <div
+                data-aos="fade-right"
+                data-aos-duration="3000"
+                className="location_on_c text-md-end d-flex flex-row-reverse flex-md-row align-items-center align-items-md-start flex-row-reverse flex-md-row"
+              >
+                <div>
                   <div className=" ps-lg-4 ps-lg-0">
                     <h2 className=" fill ff_montserrat fw-semibold fs_md text_gray mb-0">
                       Positionierung
@@ -46,7 +46,7 @@ function Conseltex() {
                     </p>
                   </div>
                 </div>
-                <div className=" px-sm-4 px-2 d-flex">
+                <div className=" px-sm-4 pe-3 d-flex">
                   <svg
                     className="svg"
                     width="107"
@@ -114,12 +114,12 @@ function Conseltex() {
                   </svg>
                 </div>
               </div>
-              <div className="power_on_c text-md-end d-flex mt-4 mt-lg-0 align-items-center align-items-md-start flex-row-reverse flex-md-row">
-                <div
-                  className="ms-lg-5 ms-lg-4 ps-lg-4 ms-xl-0 ps-xl-0"
-                  data-aos="fade-right"
-                  data-aos-duration="3000"
-                >
+              <div
+                data-aos="fade-right"
+                data-aos-duration="3000"
+                className="power_on_c text-md-end d-flex mt-4 mt-lg-0 align-items-center align-items-md-start flex-row-reverse flex-md-row"
+              >
+                <div className="ms-lg-5 ms-lg-4 ps-lg-4 ms-xl-0 ps-xl-0">
                   <h2 className=" ff_montserrat fw-semibold fs_md text_gray mb-0 ps-lg-1 ps-xl-0">
                     Neukunden gewinnen
                   </h2>
@@ -128,7 +128,7 @@ function Conseltex() {
                     dich auf dein Tagesgeschäft konzentrieren kannst!
                   </p>
                 </div>
-                <div className=" px-sm-4 px-2 d-flex">
+                <div className=" px-sm-4 pe-3 d-flex">
                   <svg
                     className=" svg"
                     width="101"
@@ -197,12 +197,12 @@ function Conseltex() {
                   </svg>
                 </div>
               </div>
-              <div className="network_of_c text-md-end d-flex mt-4 mt-lg-0 align-items-center align-items-md-start flex-row-reverse flex-md-row">
-                <div
-                  className=" ps-lg-4 ps-lg-0"
-                  data-aos="fade-right"
-                  data-aos-duration="3000"
-                >
+              <div
+                data-aos="fade-right"
+                data-aos-duration="3000"
+                className="network_of_c text-md-end d-flex mt-4 mt-lg-0 align-items-center align-items-md-start flex-row-reverse flex-md-row"
+              >
+                <div className=" ps-lg-4 ps-lg-0">
                   <h2 className=" ff_montserrat fw-semibold fs_md text_gray mb-0 ms-lg-5 ms-xl-0">
                     Gewinnmarge erhöhen
                   </h2>
@@ -211,7 +211,7 @@ function Conseltex() {
                     und erziele Rekordumsätze mit deinen Wunschkunden!
                   </p>
                 </div>
-                <div className=" px-sm-4 px-2 d-flex">
+                <div className=" px-sm-4 pe-3 d-flex">
                   <svg
                     className=" svg"
                     width="101"
@@ -270,12 +270,12 @@ function Conseltex() {
                   </svg>
                 </div>
               </div>
-              <div className="setting_of_c text-md-end d-flex mt-4 mt-lg-0 align-items-center align-items-md-start flex-row-reverse flex-md-row">
-                <div
-                  className="mt-md-5"
-                  data-aos="fade-right"
-                  data-aos-duration="3000"
-                >
+              <div
+                data-aos="fade-right"
+                data-aos-duration="3000"
+                className="setting_of_c text-md-end d-flex mt-4 mt-lg-0 align-items-center align-items-md-start flex-row-reverse flex-md-row"
+              >
+                <div className="mt-md-5">
                   <h2 className=" ff_montserrat fw-semibold fs_md text_gray mb-0">
                     Vertrieb skalieren
                   </h2>
@@ -285,7 +285,7 @@ function Conseltex() {
                     wird und deine Einnahmen sich vervielfachen!
                   </p>
                 </div>
-                <div className=" px-sm-4 px-2 d-flex">
+                <div className=" px-sm-4 pe-3 ps-0 d-flex">
                   <svg
                     className=" svg"
                     width="101"
@@ -354,7 +354,11 @@ function Conseltex() {
                   </svg>
                 </div>
               </div>
-              <div className="proccessing_on_c d-flex mt-4 mt-lg-0 align-items-center align-items-md-start ">
+              <div
+                data-aos="fade-left"
+                data-aos-duration="3000"
+                className="proccessing_on_c d-flex mt-4 mt-lg-0 align-items-center align-items-md-start "
+              >
                 <div className=" pe-3 ps-0 px-sm-4 px-2">
                   <svg
                     className=" svg"
@@ -413,11 +417,7 @@ function Conseltex() {
                     </defs>
                   </svg>
                 </div>
-                <div
-                  className="mt-md-5"
-                  data-aos="fade-left"
-                  data-aos-duration="3000"
-                >
+                <div className="mt-md-5">
                   <h2 className=" ff_montserrat fw-semibold fs_md text_gray mb-0">
                     Prozesse automatisieren
                   </h2>
@@ -427,7 +427,11 @@ function Conseltex() {
                   </p>
                 </div>
               </div>
-              <div className="Team_on_c d-flex mt-4 mt-lg-0 align-items-center align-items-md-start ">
+              <div
+                data-aos="fade-left"
+                data-aos-duration="3000"
+                className="Team_on_c d-flex mt-4 mt-lg-0 align-items-center align-items-md-start "
+              >
                 <div className=" pe-3 ps-0 px-sm-4 px-2">
                   <svg
                     className=" svg"
@@ -496,11 +500,7 @@ function Conseltex() {
                     </defs>
                   </svg>
                 </div>
-                <div
-                  className="mt-md-4"
-                  data-aos="fade-left"
-                  data-aos-duration="3000"
-                >
+                <div className="mt-md-4">
                   <h2 className="ff_montserrat fw-semibold fs_md text_gray mb-0">
                     Team aufbauen
                   </h2>

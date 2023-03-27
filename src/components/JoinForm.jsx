@@ -39,12 +39,12 @@ function JoinForm() {
         src={cubered}
         alt="shodow"
       />
-      <Container className=" d-flex align-items-center flex-column justify-content-center pb-5 ">
+      <Container className=" d-flex align-items-center flex-column justify-content-center pb-md-5 pb-4 ">
         <div
           data-aos="zoom-in-up"
           data-aos-duration="3000"
           data-aos-delay="500"
-          className="d-flex justify-content-center pt-5 mt-3 z_index1"
+          className="d-flex justify-content-center pt-md-5 pt-4 mt-md-3 z_index1"
         >
           <p
             data-aos="zoom-in-up"

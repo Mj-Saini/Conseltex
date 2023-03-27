@@ -35,19 +35,17 @@ function Kendenstimmen() {
               return (
                 <Carousel.Item>
                   {" "}
-                  <div className="col-lg-4 col-sm-6 px-2  mt-2 z_index1">
-                    <article
-                      data-aos="zoom-in-up"
-                      data-aos-duration="3000"
-                      data-aos-delay="500"
-                      className=" bg_green_16"
-                    >
-                      <img className="w-100" src={data.Image} alt="video" />
-                      <p className=" ff_montserrat fw-normal fs_sm text_primary opacity_08 px-3 py-3">
-                        {data.text}
-                      </p>
-                    </article>
-                  </div>{" "}
+                  <article
+                    data-aos="zoom-in-up"
+                    data-aos-duration="3000"
+                    data-aos-delay="500"
+                    className=" bg_green_16"
+                  >
+                    <img className="w-100" src={data.Image} alt="video" />
+                    <p className=" ff_montserrat fw-normal fs_sm text_primary opacity_08 px-3 py-3">
+                      {data.text}
+                    </p>
+                  </article>
                 </Carousel.Item>
               );
             })}
